@@ -1,7 +1,10 @@
+
 #  Job Scraper Notifier
 
 A Python-based automation tool that scrapes job listings from selected job boards (like Indeed, LinkedIn, or others) based on user-defined keywords and locations, and notifies users via email.
 
+Master JSON API Parsing and Website Scraping with Python Automation
+https://youtu.be/WF4LtDWpye8
 ---
 
 ##  Features
